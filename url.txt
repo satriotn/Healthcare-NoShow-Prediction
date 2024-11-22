@@ -1,0 +1,2 @@
+url dataset : https://www.kaggle.com/datasets/samuelotiattakorah/healthcare-no-show-appointment-data
+url deployment : https://huggingface.co/spaces/satriotn/predict_no_show
